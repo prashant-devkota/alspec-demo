@@ -1,0 +1,6 @@
+@PropertyMax_HostAddress = http://localhost:5057
+
+GET {{Alspec_HostAddress}}/jobs/test
+Accept: application/json
+
+###
