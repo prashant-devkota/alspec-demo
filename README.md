@@ -27,3 +27,15 @@
 - Alspec.API project references few other projects to make sure that proper patterns and software principles are followed in an effective manner
 - Web project uses Tailwing css and other react components to achieve the required behaviour
 - The project is perfect for Alspec build, just need to add auth and more functionalities 🙂
+- Project structure
+1 = API main project
+2 = Web main project
+The rest are supporting projects 
+
+![image](https://github.com/user-attachments/assets/82665949-3e29-4e44-b3c7-4ea442308d40)
+
+- Use of Unit of Work and Repository pattern in the backend
+- Code first Entity Framework with seed data from the code
+- Code should create the database and the seed data
+- Get and post API should work
+- SQL Server for database 
