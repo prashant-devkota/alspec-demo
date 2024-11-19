@@ -18,3 +18,9 @@
 - run the following commands
   - npm install
   - npm run start
+- A demo app should look like this
+  
+![image](https://github.com/user-attachments/assets/bbfae009-ff77-4a4d-bb86-5f24e917fa00)
+
+- Add a new job or use the swagger to pass in a full json to see how the create works
+- When using swagger to add a new job, make sure to not add the same Job.Id and SubItem.ItemId or remove them completely
