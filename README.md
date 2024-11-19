@@ -24,3 +24,8 @@
 
 - Add a new job or use the swagger to pass in a full json to see how the create works
 - When using swagger to add a new job, make sure to not add the same Job.Id and SubItem.ItemId or remove them completely
+
+#Project structure
+- Alspec.API project references few other projects to make sure that proper patterns and software principles are followed in an effective manner
+- Web project uses Tailwing css and other react components to achieve the required behaviour
+- The project is perfect for Alspec build, just need to add auth and more functionalities 🙂
